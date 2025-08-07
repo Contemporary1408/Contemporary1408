@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duc Anh</h1>
 <h3 align="center">A self-study developer</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
