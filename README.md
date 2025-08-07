@@ -38,6 +38,19 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="linux" width="40" height="40"/> 
     </a> 
+<h3 align="left">Games:</h3>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/LoL.jpg" alt="LOL" width="40" height="40"/> 
+    </a> 
+     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://static.wikia.nocookie.net/logopedia/images/4/49/Counter-Strike_2_%28Icon%29.png/revision/latest?cb=20230330015359" alt="LOL" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Apex_legends_simple_logo.jpg" alt="LOL" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://pbs.twimg.com/profile_images/1675800607527956481/POc0sYqW_400x400.jpg" alt="LOL" width="40" height="40"/> 
+    </a> 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contemporary1408&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="contemporary1408" /></p>
