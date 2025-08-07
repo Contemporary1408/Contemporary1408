@@ -26,4 +26,4 @@
     </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=contemporary1408&show_icons=true&locale=en&layout=compact" alt="contemporary1408" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contemporary1408&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="contemporary1408" /></p>
