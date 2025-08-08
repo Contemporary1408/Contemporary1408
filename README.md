@@ -21,6 +21,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="linux" width="40" height="40"/> 
         <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" alt="linux" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="linux" width="40" height="40"/> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="linux" width="40" height="40"/> 
 <h3 align="left">Games:</h3>
 <p align="left"> 
