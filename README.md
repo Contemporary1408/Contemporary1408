@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duc Anh</h1>
 <h3 align="center">A self-study developer</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Contemporary1408&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="contemporary1408" /></p>
+
 
 <p align="left">
 </p>
