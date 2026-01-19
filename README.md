@@ -26,7 +26,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="linux" width="40" height="40"/> 
 <h3 align="left">Games:</h3>
 <p align="left"> 
-        <img src="https://polymarket-upload.s3.us-east-2.amazonaws.com/Repetitive-markets/LoL.jpg" alt="LOL" width="40" height="40"/> 
+        <img src="https://brandingstyleguides.com/wp-content/guidelines/2025/03/leagueOfLegends-1000x1000.jpg" alt="LOL" width="40" height="40"/> 
+        <img src=https://www.citypng.com/public/uploads/preview/hd-valorant-red-logo-with-symbol-png-7017516947880714nedrbmqxd.png alt="Valo" width="40" height="40"/> 
         <img src="https://static.wikia.nocookie.net/logopedia/images/4/49/Counter-Strike_2_%28Icon%29.png/revision/latest?cb=20230330015359" alt="LOL" width="40" height="40"/> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Apex_legends_simple_logo.jpg" alt="LOL" width="40" height="40"/> 
         <img src="https://pbs.twimg.com/profile_images/1675800607527956481/POc0sYqW_400x400.jpg" alt="LOL" width="40" height="40"/> 
