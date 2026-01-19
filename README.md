@@ -19,6 +19,7 @@
 <h3 align="left">Tools:</h3>
 <p align="left"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+        <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png alt="excel" width="40" height="40"/> 
         <img src="vscode.png" alt="vscode" width="40" height="40"/> 
         <img src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" alt="linux" width="40" height="40"/> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" alt="linux" width="40" height="40"/> 
