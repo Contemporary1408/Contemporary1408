@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Duc Anh</h1>
 <h3 align="center">A self-study developer</h3>
 
-
+```mermaid
+---
+config:
+  look: handDrawn
+---
+flowchart TB
+A[What I can write] ==> B[VBA in Excel]
+A ==> C[Python]
+A ==> D[Power Query]
+A ==> E[Markdown]
+A ==> F[Mermaid]
+```
 
 <p align="left">
 </p>
